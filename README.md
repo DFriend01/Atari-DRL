@@ -13,7 +13,7 @@ This project is an implementation of a deep reinforcement learning model that us
 
 <img src="https://miro.medium.com/max/640/1*jXpSVhjWRxgzDDKKVAQR8A.gif" style="display:block; margin-left:auto; margin-right:auto; width:40%;">
 
-<p style="margin-top:1cm">The model uses a Deep Q-Network (DQN) that consists of two convolutional layers and two fully connected layers. The model uses the a Double DQN and Prioritized Experience Replay for training. If you are interested in training the model on an Atari game, please refer to the [Setup](#setup) section to get started.</p>
+The model uses a Deep Q-Network (DQN) that consists of two convolutional layers and two fully connected layers. The model uses the a Double DQN and Prioritized Experience Replay for training. If you are interested in training the model on an Atari game, please refer to the [Setup](#setup) section to get started.
 
 If you want to create your own DRL model, I recommend that you check out the [Acknowledgements](#acknowledgements) section for some resources to get you pointed in the right direction.
 
