@@ -46,19 +46,6 @@ $ python -m atari_py.import_roms roms/
 $ jupyter-notebook
 ```
 
-#### MacOS/Linux Setup
-
-```
-$ cd Atari-DRL
-$ python -m venv venv
-$ source venv/bin/activate
-$ pip install ipykernel
-$ ipython kernel install --user --name=atari
-$ pip install -r requirements.txt
-$ python -m atari_py.import_roms roms/
-$ jupyter-notebook
-```
-
 Open the `sample_code.ipynb` file to get started. Make sure to switch the kernel to `atari` by going to `Kernel > Change kernel > atari` on the jupyter notebook menu bar.
 
 ## Acknowledgements
